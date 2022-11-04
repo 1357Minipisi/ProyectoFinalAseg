@@ -5,7 +5,8 @@
     "ordered_teams": [
       {
         "id": 4,
-        "country": "Uruguayy",
+        "country": "Uruguay",
+        "country2": "Uruguay2",
         "alternate_name": null,
         "fifa_code": "URU",
         "group_id": 1,
